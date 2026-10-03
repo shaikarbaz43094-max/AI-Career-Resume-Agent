@@ -1,0 +1,94 @@
+CAREER KNOWLEDGE BASE
+
+Frontend Developer:
+
+Required skills:
+HTML, CSS, JavaScript, React, Git, responsive design and API integration.
+
+Frontend developers build the user interface of websites and web applications.
+
+
+Backend Developer:
+
+Required skills:
+Python, Java, Node.js, databases, APIs and Git.
+
+Backend developers build server-side applications, APIs and business logic.
+
+
+Full Stack Developer:
+
+Required skills:
+HTML, CSS, JavaScript, React, backend programming, databases, APIs and Git.
+
+Full stack developers work on both frontend and backend.
+
+
+Python Developer:
+
+Required skills:
+Python, SQL, APIs, Git and problem solving.
+
+Python developers can work on backend applications, automation and data-related applications.
+
+
+Software Developer:
+
+Common skills:
+Programming, problem solving, Git, APIs, databases and software development fundamentals.
+
+Software developers design, build, test and maintain software applications.
+
+
+React Developer:
+
+Required skills:
+JavaScript, React, HTML, CSS, Git and API integration.
+
+React developers build modern frontend web applications.
+
+
+Learning Roadmap:
+
+Step 1:
+Learn programming fundamentals.
+
+Step 2:
+Learn HTML, CSS and JavaScript.
+
+Step 3:
+Learn Git and GitHub.
+
+Step 4:
+Learn React or another frontend framework.
+
+Step 5:
+Learn APIs and databases.
+
+Step 6:
+Build practical projects.
+
+Step 7:
+Deploy projects and create a portfolio.
+
+Step 8:
+Practice coding and interview questions.
+
+
+Interview Preparation:
+
+Prepare programming fundamentals.
+
+Prepare HTML, CSS and JavaScript questions.
+
+Prepare React concepts if applying for React roles.
+
+Prepare Python basics if applying for Python roles.
+
+Practice Git and GitHub.
+
+Practice API and database concepts.
+
+Prepare project explanations.
+
+Practice behavioral interview questions.
